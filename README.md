@@ -6,6 +6,7 @@ https://drive.google.com/drive/folders/1V8SJcZLBZbusXJB15pbjmRHNEobLZXKi?usp=sha
 
 Code cite：
 Deep3D Face Reconstruction Model Code From:https://github.com/microsoft/Deep3DFaceReconstruction
+
 @inproceedings{deng2019accurate,
     title={Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set},
     author={Yu Deng and Jiaolong Yang and Sicheng Xu and Dong Chen and Yunde Jia and Xin Tong},
@@ -15,6 +16,7 @@ Deep3D Face Reconstruction Model Code From:https://github.com/microsoft/Deep3DFa
 
  
 PRNet Model Code From: https://github.com/YadiraF/PRNet
+
 @inProceedings{feng2018prn,
   title     = {Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network},
   author    = {Yao Feng and Fan Wu and Xiaohu Shao and Yanfeng Wang and Xi Zhou},
